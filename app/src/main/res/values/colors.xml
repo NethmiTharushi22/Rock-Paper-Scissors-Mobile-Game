@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="scissorBtn">#74dae2</color>
+    <color name="rockBtn">#ef5480</color>
+    <color name="paperBtn">#ffde55</color>
+    <color name="bgcolor">#f0eade</color>
+
+</resources>

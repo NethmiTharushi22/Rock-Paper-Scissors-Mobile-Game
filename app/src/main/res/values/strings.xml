@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="play_with_other">Play with friend</string>
+    <string name="play">Play with me</string>
+    <string name="instructions"><u>See the game instructions ?</u></string>
+    <string name="player2">Player 2</string>
+    <string name="player1">Player 1</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissor">Scissor</string>
+    <string name="Ready">Ready</string>
+    <string name="player1_name">Player1 Name</string>
+    <string name="player_2_name">Player 2 Name</string>
+    <string name="Ok">Ok</string>
+    <string name="newGame">Start New game</string>
+    <string name="computer">Computer</string>
+    <string name="You">You</string>
+    <string name="InstructHelp">
+        Rules;\n
+        1.Rock wins over Scissor.\n\n
+        2.Paper wins over Rock.\n\n
+        3.Scissor wins over paper.\n\n
+        Winner(play with friend); \n
+        whoever collects all three stars\n
+        first will be the winner.\n\n
+        Winner(play with me); \n
+        Until you lose all the lives you can play the game\n
+
+        Best of Luck!!
+    </string>
+    <string name="HighScore">High Score</string>
+    <string name="Yourscore">Your Score</string>
+    <string name="score">Score</string>
+    <string name="rock_n_paper_nsciccors">Rock\nPaper\nSciccors</string>
+    <string name="ROCK">ROCK</string>
+    <string name="PAPER">PAPER</string>
+</resources>
